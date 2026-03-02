@@ -1,2 +1,0 @@
-<!-- Its a good practice to have a README file in your project folder. This file should contain information about the project, how to install it and run it etc. -->
-You should update this readme 😉.
